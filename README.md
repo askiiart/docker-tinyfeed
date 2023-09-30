@@ -1,4 +1,4 @@
-# docker-createrepo_c
+# docker-tinyfeed
 
 [![Build Status](https://drone.askiiart.net/api/badges/askiiart/docker-tinyfeed/status.svg?ref=refs/heads/main)](https://drone.askiiart.net/askiiart/docker-tinyfeed)
 
