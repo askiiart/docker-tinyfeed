@@ -1,6 +1,6 @@
 **Don't use this**
 
-Tinyfeed now has its own Docker image and can be run as a daemon, use that imstead.
+Tinyfeed now has its own Docker image and can be run as a daemon, use that instead.
 
 # docker-tinyfeed
 
