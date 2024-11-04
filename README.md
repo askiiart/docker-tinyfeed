@@ -1,8 +1,12 @@
+**Don't use this**
+
+Tinyfeed now has its own Docker image and can be run as a daemon, use that imstead.
+
 # docker-tinyfeed
 
 [![Build Status](https://drone.askiiart.net/api/badges/askiiart/docker-tinyfeed/status.svg?ref=refs/heads/main)](https://drone.askiiart.net/askiiart/docker-tinyfeed)
 
-`tinyfeed` in a Docker container
+[`tinyfeed`](https://github.com/TheBigRoomXXL/tinyfeed) in a Docker container
 
 ## Running
 
